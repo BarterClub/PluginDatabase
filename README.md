@@ -50,16 +50,16 @@ The following table describes the remaining deprecated Python plugins that need 
 Python is no longer officially supported by Millennium and will be removed entirely in a future update.
 
 **Total**: 27
- * **Lua**: 23
- * **Python**: 4
+ * **Lua**: 24
+ * **Python**: 3
 
 
 | Lua | Python |
 |-----|--------|
 | RSS-feed-in-whats-new | augmented-steam |
 | achievement-groups | extendium |
-| adamraichu.auto-accept-custom-launch-args | non-steam-playtimes (in-progress) |
-| aerothemesteam | steamdb |
+| adamraichu.auto-accept-custom-launch-args | steamdb |
+| aerothemesteam |  |
 | csstats-extension |  |
 | cswatch-plugin |  |
 | dotastats |  |
@@ -69,6 +69,7 @@ Python is no longer officially supported by Millennium and will be removed entir
 | hltb-millennium-plugin |  |
 | leetify-extension |  |
 | millennium-faceit-stats |  |
+| non-steam-playtimes |  |
 | size-on-disk |  |
 | steam-browser-history |  |
 | steam-change-window-params |  |
